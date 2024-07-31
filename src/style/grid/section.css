@@ -11,7 +11,3 @@
     grid-template-columns: repeat(auto-fit, minmax(min(80%/2, max(350px, 80%/3)), 1fr));
     gap: 1.25rem;
 }
-.secao-horizontal .cartao{
-    display: grid;
-
-}
